@@ -1,0 +1,7 @@
+﻿site_id,name,lat,lon,date,parameter,value_c,notes
+BQ-01,Alameda Open Space,35.1997366,-106.6431397,11/13/2026,water_temperature,15,"West bank, upstream of bridge. 350413.6,3896398.5"
+BQ-02,Open Space Visitor Center,35.161116,-106.673634,11/13/2026,water_temperature,15.3,"West bank, South space. 2.62mi. 347611.8,3892179.7"
+BQ-03,Montaño bridge/Bosque School,35.145118,-106.679029,11/13/2026,water_temperature,15.5,"North bosque near bridge. 1.1 mi. 347043.4,3890428.6"
+BQ-04,Rio Grande Nature Center,35.1308486,-106.6840068,11/13/2026,water_temperature,15.6,"East side, observation. 1.358 mi. 346569.3,3888839.5"
+BQ-05,Central Ave bridge,35.0901593,-106.6804833,11/13/2026,water_temperature,15.9,"North East river North of bridge. 3.256 mi. 346822.51,3884346.35"
+BQ-06,Rio Bravo bridge,35.0267035,-106.6695384,11/13/2026,water_temperature,16.4,"East bank, South of bridge. 4.930 mi. 347700.21,3877295.74"

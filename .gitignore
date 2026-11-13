@@ -1,0 +1,6 @@
+*.qgz~
+*.gpkg-shm
+*.gpkg-wal
+*.qgd
+Thumbs.db
+.DS_Store
