@@ -18,3 +18,5 @@ Points are graduated by temperature across five classes. The basemap is OpenStre
 - `bosque_sites.gpkg` — the spatial layer
 - `bosque_water_temp.qgz` — the QGIS project
 - `bosque_water_temp_map.pdf` / `.png` — the exported map
+---
+Related: [bosque-groundwater-leaf-litter](https://github.com/xlucero/bosque-groundwater-leaf-litter) — analysis of ten years of BEMP groundwater and leaf litter records.
